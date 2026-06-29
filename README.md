@@ -7,3 +7,5 @@ Under the hood it runs a software MMU with demand paging on a chip that has no h
 It is designed to be operated over USB or over SSH. Plug it in and you get a console. Connect over WiFi and you get a full ssh shell. From there you can write Python, toggle GPIO, read sensors, and treat the microcontroller like a full computer. 
 
 It is probably the most complete Unix style OS running on an ESP32 S3 today, because it gives you a real operating system enviroment with process isolation and commands that is cool like git clone or curl.
+
+~Bean
